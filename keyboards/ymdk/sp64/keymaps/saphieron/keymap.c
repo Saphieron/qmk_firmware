@@ -10,6 +10,7 @@
  *
  * Direct transitions between layers not listed here are considered bugs.
  */
+
 enum layer_names {
     BASE,     // default layer
     _FN,      // function layer
